@@ -28,7 +28,7 @@
 |WORKFLOW| BADGE |
 | --------------- | --------------- |
 | Build |[![Compile-Linux](https://github.com/herenajoshika/M3_WIPERCONTROLSYSTEM/actions/workflows/Compile.yml/badge.svg)](https://github.com/herenajoshika/M3_WIPERCONTROLSYSTEM/actions/workflows/Compile.yml)|
-| Cpp Check |[![Cppcheck](https://github.com/herenajoshika/M2_WASTELEVELMONITORING/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/herenajoshika/M2_WASTELEVELMONITORING/actions/workflows/CodeQulaity.yml)|
+| Cpp Check |[![Cppcheck](https://github.com/herenajoshika/M3_WIPERCONTROLSYSTEM/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/herenajoshika/M3_WIPERCONTROLSYSTEM/actions/workflows/CodeQulaity.yml)|
 | GIT Inspector |[![Git Inspector](https://github.com/herenajoshika/M2_WASTELEVELMONITORING/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/herenajoshika/M2_WASTELEVELMONITORING/actions/workflows/Git_Inspector.yml)|
 
 
