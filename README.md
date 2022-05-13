@@ -16,7 +16,7 @@
 # BADGES
 
 ## CODACY
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d7eb1af6475c4ee49418d51d1b9da80a)](https://www.codacy.com/gh/herenajoshika/M3_WIPERCONTROLSYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=herenajoshika/M3_WIPERCONTROLSYSTEM&amp;utm_campaign=Badge_Grade)
 
 ## CODIGA
 ![Codiga_Badge](https://api.codiga.io/project/33361/status/svg)
