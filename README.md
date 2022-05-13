@@ -1,6 +1,6 @@
 # M3_WIPERCONTROLSYSTEM
 
-## Module 2 Project
+## Module 3 Project
 
 |FOLDER|DESCRIPTION|
 | --------------- | --------------- |
